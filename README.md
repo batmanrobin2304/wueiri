@@ -5,9 +5,13 @@ You can use the [editor on GitHub](https://github.com/batmanrobin2304/wueiri/edi
 Puede que esta pagina en un principio pienses que sea un regalo, aunque se puede convertir en pesadilla. Para poder pasar este Scape Room (si, es un cutre Scape Room) vas a tener que recordar muchas cosas, incluso algunas que no te guste....
 Eso si, siempre tendras algo que te guste para poder continuar con tu camino hasta llegar a la prueba final
 
+PD: Aunque no disponga del tiempo que me hubiera gustado para hacerlo, espero que te guste igualmente y sientas que siempre estare contigo intentando darte todo mi apoyo.
+
 Arrancamos.
 
-### Markdown
+## Prueba 1
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
