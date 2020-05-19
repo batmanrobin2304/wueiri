@@ -2,8 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/batmanrobin2304/wueiri/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Puede que esta pagina en un principio pienses que sea un regalo, aunque se puede convertir en pesadilla. Para poder pasar este Scape Room (si, es un cutre Scape Room) vas a tener que recordar muchas cosas, incluso algunas que no te guste....
-Eso si, siempre tendras algo que te guste para poder continuar con tu camino hasta llegar a la prueba final
+Puede que esta pagina en un principio pienses que sea un regalo, aunque se puede convertir en pesadilla. Para poder pasar este Scape Room (si, es un cutre Scape Room) vas a tener que recordar muchas cosas, incluso algunas que no te guste....  
+
+Eso si, siempre tendras algo que te guste para poder continuar con tu camino hasta llegar a la prueba final.  
 
 PD: Aunque no disponga del tiempo que me hubiera gustado para hacerlo, espero que te guste igualmente y sientas que siempre estare contigo intentando darte todo mi apoyo.
 
@@ -11,6 +12,13 @@ Arrancamos.
 
 ## Prueba 1
 
+En esta fase, la pregunta será la mas fácil, pero tu y yo sabemos que aquí fácil no hay nada.  
+
+Aun así, vamos a por la pregunta. Esta primera pregunta esta relacionada con esa cosa que nos ha unido tanto, las matemáticas!!  
+Para pasar a la siguiente fase, primero deberas hallar la solucion de esta, y para ello te voy a dar una pista. 
+Por muchos grados y puntos que aparezcan, quedate con las dos ultimas cifras de cada numero.
+
+De esta forma, podras salir del ORIGEN de este Scape Room, ya que hay pistas de principio a fin.
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
