@@ -1,8 +1,11 @@
-## Bienvenido a mi...¿Regalo?
+# Bienvenido a mi...¿Regalo?
 
 You can use the [editor on GitHub](https://github.com/batmanrobin2304/wueiri/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Puede que esta pagina en un principio pienses que sea un regalo, aunque se puede convertir en pesadilla. Para poder pasar este Scape Room (si, es un cutre Scape Room) vas a tener que recordar muchas cosas, incluso algunas que no te guste....
+Eso si, siempre tendras algo que te guste para poder continuar con tu camino hasta llegar a la prueba final
+
+Arrancamos.
 
 ### Markdown
 
