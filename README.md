@@ -22,4 +22,4 @@ De esta forma, podras salir del ORIGEN de este Scape Room, ya que hay pistas de 
 Si necesitas ayuda, aqui tienes las [pistas de la fase 1](https://batmanrobin2304.github.io/Pistas-Fase-1/)
 
 
-Una vez que creas que has podido encontrar la solucion del acertijo, accede al [enlace](https://mega.nz/file/mjwD3IDD) para continuar
+Una vez que creas que has podido encontrar la solucion del acertijo, accede al [enlace](https://mega.nz/file/q2p3iIZa) para continuar
