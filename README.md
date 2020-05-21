@@ -20,8 +20,8 @@ Por muchos grados y puntos que aparezcan, quedate con las dos ultimas cifras de 
 
 De esta forma, podras salir del ORIGEN de este Scape Room, ya que hay pistas de principio a fin.
 
+Si necesitas ayuda, aqui tienes las [pistas de la fase 1](https://batmanrobin2304.github.io/Pistas-Fase-1/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
